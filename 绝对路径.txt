@@ -1,3 +1,5 @@
 	<Context path="/fiel/" docBase="D:\idea\workspaces\spring-classes\studytest\target\studytest\img" debug="0" reloadable="fasle" privilege="true" />
-							
+//测试							
 <mvc:resources location="/css/" mapping="/css/**"></mvc:resources>
+
+String softwareName, String APKName, String supportROM, String interfaceLanguage, BigDecimal softwareSize, Long downloads, Long flatformId, Long categoryLevel1, Long categoryLevel2, Long categoryLevel3, Long status, String appInfo, String a_logoPicPath
