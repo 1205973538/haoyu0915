@@ -1,0 +1,19 @@
+1.linux中，可以修改目录名称的命令为 mv
+
+2.linux中如果某一子目录中存在某些文件，使用rm能够删除
+
+3.linux系统能查看本机ip地址的命令是（ifconfig）
+
+4.export能定义SHELL的全局变量
+
+5.linux中查看导出的环境便令：env
+
+6.linux用光标上下移动来查看文件的命令是:less
+
+7.linux分区默认的是ext2
+
+8.ntfs不能作为linux的根分区
+
+9.top用于动态查询进程，ps用于静态查询进程
+
+10.Linux下查看文件内容的命令是cat
